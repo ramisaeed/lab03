@@ -59,6 +59,27 @@ for ( i =  0  ; i < num  ;i++ )
 }
 
 
+
+
+//  4
+
+int val1 = 0 ;
+int val2  = 0;
+
+ val1 = r.nextInt();
+ val2 = r.nextInt();
+
+Random val2 = new Random();
+
+
+
+if (val1 > val2)
+{
+    maxval  = val1;
+    else
+}
+
+
     
     }
 }
